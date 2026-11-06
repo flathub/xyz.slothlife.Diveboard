@@ -1,7 +1,7 @@
 {
   "app-id": "xyz.slothlife.Diveboard",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "50",
+  "runtime-version": "51",
   "sdk": "org.gnome.Sdk",
   "sdk-extensions": ["org.freedesktop.Sdk.Extension.rust-stable"],
   "command": "diveboard",
@@ -84,8 +84,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://codeberg.org/baarkerlounger/diveboard-gtk/releases/download/v0.5.0/diveboard-0.5.0.tar.xz",
-          "sha256": "7e8214b4480e2b762f307b05a087fc9d538f42b5a25aba3b810e476464511091"
+          "url": "https://codeberg.org/baarkerlounger/diveboard-gtk/releases/download/v0.6.0/diveboard-0.6.0.tar.xz",
+          "sha256": "ea8cbf306edbb34652fc9a9478da5fb1f9b0cfe7246918a7d9d9e1c88dae4dd6"
         }
       ]
     }
